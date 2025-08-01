@@ -1,5 +1,5 @@
 git status (print the status of Git repository)
-git init
+git init   (initialize the Git repository)
 git commit -m ""
 git log
 git add
