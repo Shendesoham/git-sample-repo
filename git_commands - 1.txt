@@ -1,0 +1,8 @@
+git status (print the status of Git repository)
+git init   (initialize the Git repository)
+git commit -m "" (commit the changes)
+git log   (log the commits)
+git add
+Git diff <filename>
+git config --global user.name "Shendesoham"
+git config --global user.email "soham@mobiuso.com"
