@@ -1,6 +1,6 @@
 git status (print the status of Git repository)
 git init   (initialize the Git repository)
-git commit -m ""
+git commit -m "" (commit the changes)
 git log
 git add
 Git diff <filename>
