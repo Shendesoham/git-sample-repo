@@ -1,7 +1,12 @@
-git status (print the status of Git repository)
-git init   (initialize the Git repository)
-git commit -m "" (commit the changes)
-git log
-git add
-Git diff <filename>
+git status (Print the status of Git repository)
+git init    (initialize the Git repository)
+git commit -m "" (Commit file to local Git repository)
+git log           (Check file log history)
+git add            (Add file to staging environment)
+Git diff <filename> (check changes made to file with existing file)
 git config --global user.name "Lets Kode It"
+git remote add origin (repo url) (Establish connection to the remote Github repository)
+git push -u origin master   (push to master branch)
+git clone (clone Url)
+git pull
+git checkout -b  (create a branch)
